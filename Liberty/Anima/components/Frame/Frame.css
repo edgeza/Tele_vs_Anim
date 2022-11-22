@@ -1,0 +1,12 @@
+.frame {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  min-height: 2776px;
+  min-width: 1920px;
+  width: 100%;
+}
+

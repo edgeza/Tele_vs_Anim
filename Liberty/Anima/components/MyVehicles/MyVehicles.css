@@ -1,0 +1,11 @@
+.my-vehicles-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1579px;
+  overflow: hidden;
+  width: 1440px;
+}
+

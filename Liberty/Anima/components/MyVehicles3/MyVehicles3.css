@@ -1,0 +1,9 @@
+.my-vehicles2 {
+  background-color: var(--white);
+  border: 1px none;
+  height: 3990px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+

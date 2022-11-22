@@ -1,0 +1,10 @@
+.my-vehicles-open-1,
+.my-vehicles-open {
+  align-items: flex-start;
+  display: flex;
+  height: 1600px;
+  min-width: 803px;
+  overflow-x: hidden;
+  position: relative;
+}
+

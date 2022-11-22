@@ -1,0 +1,38 @@
+:root { 
+  --alabaster: #f9fafb;
+  --alto: #d9d9d9;
+  --black: #000000;
+  --black-2: #0000004c;
+  --blue: #2f80ed;
+  --blue-2: #2f80ed1a;
+  --blueberry: #4378fd;
+  --bon-jour: #e0e0e033;
+  --bon-jour-2: #e0e0e04c;
+  --gulf-blue: #00164e;
+  --mine-shaft: #333333;
+  --mine-shaft-2: #2f2f2f;
+  --mischka: #ced4da;
+  --mist-gray: #c4c4c4;
+  --sea-serpent: #4ac8c8;
+  --sonic-silver: #757575;
+  --star-dust: #9b9b9b;
+  --vulcan: #0d1325;
+  --white: #ffffff;
+  --white-2: #ffffff03;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 15px;
+  --font-size-xl: 20px;
+  --font-size-xs: 14px;
+  --font-size-xxl: 26px;
+  --font-size-xxxl: 40px;
+ 
+  --font-family-font_awesome_5_brands-regular: "Font Awesome 5 Brands-Regular", Helvetica;
+  --font-family-ibm_plex_sans: "IBM Plex Sans", Helvetica;
+  --font-family-noto_sans-bold: "Noto Sans-Bold", Helvetica;
+  --font-family-noto_sans-medium: "Noto Sans-Medium", Helvetica;
+  --font-family-noto_sans-regular: "Noto Sans-Regular", Helvetica;
+  --font-family-open_sans: "Open Sans", Helvetica;
+  --font-family-roboto-regular: "Roboto-Regular", Helvetica;
+}
